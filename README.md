@@ -15,6 +15,10 @@ https://raw.githubusercontent.com/templarian/slack-emoji-pokemon/master/pokemon-
 
 Or the less recommended approach is to upload each by hand from the `emojis` folder.
 
+Or When you use macOS, you may use Automata.app.
+
+![cap](https://cloud.githubusercontent.com/assets/10899437/23057886/8bf4e73e-f535-11e6-9b3a-52313296d69b.gif)
+
 ## Translations
 
 - [French](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon.fr.yaml) ([Prefixed pokemon-*](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon-prefix.fr.yaml))
