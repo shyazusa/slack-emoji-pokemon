@@ -6,6 +6,8 @@ This project works best with [lambtron/emojipacks](https://github.com/lambtron/e
 
 ## Usage
 
+### Check file name
+
 When prompted for Path or URL of Emoji YAML file enter either of the urls below. The prefix url is advised as it prefixes `pokemon-` to every name.
 
 ```
@@ -18,6 +20,12 @@ Or the less recommended approach is to upload each by hand from the `emojis` fol
 Or When you use macOS, you may use Automata.app.
 
 ![cap](https://cloud.githubusercontent.com/assets/10899437/23057886/8bf4e73e-f535-11e6-9b3a-52313296d69b.gif)
+
+### Add slack
+
+1. Add [Chrome extension](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej)
+1. Open slack setting page 
+1. Add All picture to slack, from `emojis`
 
 ## Translations
 
